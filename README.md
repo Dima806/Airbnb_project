@@ -1,6 +1,6 @@
 # Airbnb_project
 
-Descriptive analysis of Airbnb data from Seattle, Boston and Copenhagen
+Descriptive analysis of Airbnb data from Seattle, Boston and Copenhagen (see also [this Medium post](https://medium.com/@dima806/digging-into-airbnb-data-reviews-sentiments-superhosts-and-prices-prediction-part1-6c80ccb26c6a) for detailed description)
 
 ### Used libraries:
 
