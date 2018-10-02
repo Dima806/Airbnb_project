@@ -19,6 +19,28 @@ Descriptive analysis of Airbnb data from Seattle, Boston and Copenhagen (see als
 * [`tqdm`](https://pypi.org/project/tqdm/)
 * [`warnings`](https://docs.python.org/3/library/warnings.html)
 
+### Libraries installation with [Pypi](https://pypi.org/)
+
+`pip install eli5`
+
+`pip install geopy`
+
+`pip install matplotlib`
+
+`pip install nltk`
+
+`pip install numpy`
+
+`pip install pandas`
+
+`pip install scipy`
+
+`pip install seaborn`
+
+`pip install sklearn`
+
+`pip install tqdm`
+
 ### Motivation for the project
 The aim of the project is to analyze the latest Airbnb data publicly available for three different cities (Seattle, Boston and Copenhagen), to perform sentiment analysis of the reviews for their customers, to reveal the difference between Airbnb superhosts from ordinary hosts, and to understands main factors responsible for the prise of Airbnb apartments.
 
